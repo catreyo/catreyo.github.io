@@ -1,0 +1,3 @@
+Here are online resources I referenced in order to complete this project:
+https://stackoverflow.com/questions/54702124/rainbow-text-animation-using-only-css
+https://www.w3schools.com/css/css_navbar_horizontal.asp
